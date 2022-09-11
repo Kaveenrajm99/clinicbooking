@@ -9,8 +9,8 @@ function Header() {
   return (
     <div class="container-fluid top-container">
       <div className="row" id="show">
-        <div className="mt-2 col-sm-12 col-md-3 col-lg-6 col-xl-6 col-xxl-6 timing"><img className="time" src={Clock} />Opening time: Mon - Sun : 9.30 am - 1.30 pm , 4.30 pm - 9.30 pm</div>
-        <div className="mt-2 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3 mobile"><img className="time" src={Call} /> Call : 7200943938 <img className="time" src={Whatsapp} />8667085227</div>
+        <div className="mt-2 col-sm-12 col-md-3 col-lg-6 col-xl-6 col-xxl-6 timing"><img className="time" src={Clock} />Opening time: Mon - Sat : 9.30 am - 1.30 pm , 4.30 pm - 9.30 pm <br /> Sun 9.30 am - 2 pm</div>
+        <div className="mt-2 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3 mobile"><img className="time" src={Call} /> Call : 9944625605 <img className="time" src={Whatsapp} />9944625605</div>
         <div className="mt-2 col-sm-12 col-md-3 col-lg-3 col-xl-3 col-xxl-3 mail"><img className="time" src={Mail} /> neosmiledentalomr@gmail.com</div>
       </div>
       <div className="text-center ">
